@@ -32,5 +32,5 @@ For full details, see [Sonatype's documentation for using Maven to publish relea
 ### Release Notes
 #### 5.1.0
 * Moved out of bw-xml
-#### 5.1.0
+#### 5.1.1
 * Pre-jakarta release
