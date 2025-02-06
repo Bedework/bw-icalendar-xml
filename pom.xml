@@ -8,7 +8,7 @@
 	</parent>
 
 	<artifactId>bw-icalendar-xml</artifactId>
-	<version>5.1.1</version>
+	<version>6.0.0-SNAPSHOT</version>
 	<name>Bedework: XML schemas for icalendar</name>
 
 	<description>XML Icalendar schema for RFC 6321 specification</description>
